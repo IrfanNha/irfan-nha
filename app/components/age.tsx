@@ -8,9 +8,9 @@ const Age: React.FC<AgeProps> = () => {
 	const prevTimeRef = useRef<number>(0);
 	const requestRef = useRef<number>();
 
-	const birthday: Date = new Date("2006-03-20T13:00:00");
-
 	useEffect(() => {
+		const birthday: Date = new Date("2006-03-20T13:00:00"); // Move the object creation here
+
 		const animate = (time: number) => {
 			if (prevTimeRef.current === 0) {
 				prevTimeRef.current = time;
@@ -46,7 +46,7 @@ const Age: React.FC<AgeProps> = () => {
 		requestRef.current = requestAnimationFrame(animate);
 
 		return () => cancelAnimationFrame(requestRef.current!);
-	}, [birthday]); // Menyertakan birthday di sini
+	}, []); // Empty dependency array as the object is created inside useEffect
 
 	return <span>{age.toFixed(11)}</span>;
 };

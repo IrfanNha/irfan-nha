@@ -21,7 +21,7 @@ export default function Page() {
 								</h2>
 
 								<p className="mt-4 tracking-4 font-light uppercase text-sm text-center md:text-left leading-loose w-full md:w-2/3 font-sans">
-									A SELECTION OF PROJECTS THAT I'M NOT TOO
+									A SELECTION OF PROJECTS THAT IM NOT TOO
 									ASHAMED OF
 								</p>
 							</header>
