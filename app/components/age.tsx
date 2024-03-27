@@ -1,5 +1,4 @@
-"use client";
-import { useRef, useState, useEffect } from "react";
+import React, { useRef, useState, useEffect } from "react";
 
 interface AgeProps {}
 
@@ -46,7 +45,7 @@ const Age: React.FC<AgeProps> = () => {
 		requestRef.current = requestAnimationFrame(animate);
 
 		return () => cancelAnimationFrame(requestRef.current!);
-	}, []);
+	}, [birthday]); // Menyertakan birthday di sini
 
 	return <span>{age.toFixed(11)}</span>;
 };

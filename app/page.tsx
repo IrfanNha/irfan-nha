@@ -30,7 +30,7 @@ export default function Home() {
 
 								<p className="mt-4 tracking-4 font-light uppercase text-sm text-center md:text-left leading-loose w-full md:w-2/3 font-sans">
 									I WILL PROVE MYSELF WITH MY ABILITY, AND I
-									am confident in my abilities. I'M TRYING TO
+									am confident in my abilities. IM TRYING TO
 									FORWARD AND WANT TO KEEP IT.
 								</p>
 							</header>
@@ -67,30 +67,30 @@ export default function Home() {
 								&apos; me.
 							</p>
 							<p className="mt-5 text-sm tracking-3 leading-loose text-gray-800 antialiased">
-								I'm a skilled full stack developer with over 2
+								Im a skilled full stack developer with over 2
 								years of experience in crafting web applications
 								using a variety of technologies. My expertise
 								covers both front-end and back-end development,
-								and I've successfully delivered projects for
+								and Ive successfully delivered projects for
 								clients across different industries. <br />
 								In my recent role, I led a team in creating a
 								scalable e-commerce platform using modern web
 								tech like React, Node.js, and MongoDB. I handled
-								the platform's architecture and implemented
+								the platforms architecture and implemented
 								features such as payment processing, user
 								authentication, and real-time data
 								visualization.
 								<br />
-								Throughout my career, I've built RESTful APIs,
+								Throughout my career, Ive built RESTful APIs,
 								integrated third-party APIs, and worked with
 								databases like MySQL, PostgreSQL, and MongoDB.
-								I'm proficient in front-end technologies such as
+								Im proficient in front-end technologies such as
 								Angular, React, and Vue.js, and have experience
 								with CSS frameworks like Bootstrap and
 								Materialize.
 								<br />
-								Moreover, I'm well-versed in PHP development,
-								particularly with the Laravel framework. I've
+								Moreover, Im well-versed in PHP development,
+								particularly with the Laravel framework. Ive
 								developed custom applications, integrated
 								various APIs, and worked with MySQL and other
 								databases.
@@ -98,9 +98,9 @@ export default function Home() {
 								Beyond technical skills, I possess strong
 								communication and collaboration abilities,
 								excelling in both individual and team settings.
-								I'm committed to staying updated with the latest
+								Im committed to staying updated with the latest
 								web development technologies and best practices,
-								and I'm passionate about creating high-quality,
+								and Im passionate about creating high-quality,
 								user-friendly applications that meet business
 								and user needs.
 								<br />

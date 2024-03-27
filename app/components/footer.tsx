@@ -33,15 +33,15 @@ export function Footer() {
 							About
 						</p>
 						<p className="mt-6 text-xs font-normal text-gray-800 antialiased leading-loose tracking-3">
-							Hello, I'm Irfan, a web developer with over a year
-							of experience in Front-end, Back-end, and CMS
+							Hello, I&apos;m Irfan, a web developer with over a
+							year of experience in Front-end, Back-end, and CMS
 							development. Despite my brief time in the industry,
-							I've tackled both sides of web development with
+							I&apos;ve tackled both sides of web development with
 							enthusiasm, finding challenges to be my greatest
-							motivator. Now, I'm seeking opportunities in Full
-							Stack development to advance my career. I believe in
-							pushing boundaries and contributing to team growth.
-							Thank you for considering me!
+							motivator. Now, I&apos;m seeking opportunities in
+							Full Stack development to advance my career. I
+							believe in pushing boundaries and contributing to
+							team growth. Thank you for considering me!
 						</p>
 						<button className="mt-6 py-3 px-5 text-[0.6em] uppercase font-bold tracking-4 border-[1.3px] border-gray-300 hover:border-blue-700 hover:text-blue-700 transition md:flex-row md:justify-center md:w-auto w-full">
 							<Link href={"/resume"}>Learn More</Link>
@@ -72,7 +72,7 @@ export function Footer() {
 								</div>
 								<div className="mt-9">
 									<p className="uppercase font-light text-[0.6rem] tracking-4 text-gray-400">
-										© irfan nuha&apos;
+										&copy; irfan nuha&apos;
 										<Link
 											href={"/"}
 											className="underline decoration-dotted underline-offset-2 hover:no-underline decoration-0 hover:text-blue-700 transition">
