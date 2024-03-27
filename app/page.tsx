@@ -40,31 +40,31 @@ export default function Home() {
 						<section>
 							<p className="mt-4 text-sm tracking-3 leading-loose">
 								Welcome to my website. Please feel free to read
-								more here, or you can check out my{" "}
+								more here, or you can check out my&apos;
 								<Link
 									href={"/resume"}
 									className="underline decoration-dotted underline-offset-2 text-gray-500 decoration-0 hover:no-underline hover:text-blue-700 transition">
 									resume
 								</Link>
-								,{" "}
+								,&apos;
 								<Link
 									href={"/projects"}
 									className="underline decoration-dotted underline-offset-2 text-gray-500 decoration-0 hover:no-underline hover:text-blue-700 transition">
 									projects
 								</Link>
-								, view site{" "}
+								, view site&apos;
 								<Link
 									href={"/certifications"}
 									className="underline decoration-dotted underline-offset-2 text-gray-500 decoration-0 hover:no-underline hover:text-blue-700 transition">
 									statistics
 								</Link>
-								, or{" "}
+								, or&apos;
 								<Link
 									href={"/contact"}
 									className="underline decoration-dotted underline-offset-2 text-gray-500 decoration-0 hover:no-underline hover:text-blue-700 transition">
 									contact
-								</Link>{" "}
-								me.
+								</Link>
+								&apos; me.
 							</p>
 							<p className="mt-5 text-sm tracking-3 leading-loose text-gray-800 antialiased">
 								I'm a skilled full stack developer with over 2

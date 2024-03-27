@@ -7,8 +7,6 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 export function Footer() {
 	return (
 		<>
-			{/* about footer */}
-
 			<div className="container mx-auto lg:px-10 md:px-10 px-0">
 				<div className="mt-14 border-y border-gray-300 2xl:border-b 2xl:border-y-0">
 					<header className="my-10 py-10 px-5 2xl:px-0 md:px-14 flex flex-col items-center 2xl:items-start">
@@ -74,7 +72,7 @@ export function Footer() {
 								</div>
 								<div className="mt-9">
 									<p className="uppercase font-light text-[0.6rem] tracking-4 text-gray-400">
-										© irfan nuha{" "}
+										© irfan nuha&apos;
 										<Link
 											href={"/"}
 											className="underline decoration-dotted underline-offset-2 hover:no-underline decoration-0 hover:text-blue-700 transition">
