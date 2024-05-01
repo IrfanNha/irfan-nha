@@ -21,8 +21,8 @@ export function Footer() {
 							<Link href={"/"}>Irfan Nuha</Link>
 						</h2>
 						<p className="mt-6 text-gray-400 font-light underline underline-offset-2 uppercase tracking-[0.3rem]  text-xs decoration-dotted decoration-0 hover:no-underline hover:text-blue-700 transition  2xl:text-start">
-							<Link href={"mailto:irfannuhaa@gmail.com"}>
-								irfannuhaa@gmail.com
+							<Link href={"mailto:irfannuha@protonmail.com"}>
+								irfannuha@protonmail.com
 							</Link>
 						</p>
 					</header>

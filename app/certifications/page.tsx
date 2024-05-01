@@ -92,6 +92,29 @@ export default function Certifications() {
 										</Link>
 									</button>
 								</div>
+								<div className=" p-4 border border-gray-200">
+									<p className="tracking-[0.2em] font-bold flex items-center hover:text-blue-700 cursor-pointer">
+										Software Engineering Competency
+										Certificate
+										<BsAwardFill className="ml-1" />
+									</p>
+									<p className="text-xs tracking-4  mt-1">
+										April, 2024
+									</p>
+									<p className="tracking-3 font-light text-sm mt-4 hover:text-blue-700">
+										<Link href={"https://bnsp.go.id/"}>
+											{" "}
+											National Professional Certification
+											Agency &#8599;
+										</Link>
+									</p>
+
+									<button className="mt-6 py-3 px-5 text-[0.6em] uppercase font-bold tracking-4 border-[1.3px] border-gray-300 hover:border-blue-700 hover:text-blue-700 transition md:flex-row md:justify-center md:w-auto w-full">
+										<Link href={"/certifications"}>
+											Certificate Details
+										</Link>
+									</button>
+								</div>
 							</div>
 						</section>
 					</div>

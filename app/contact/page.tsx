@@ -31,7 +31,10 @@ export default function Contact() {
 									at:
 								</p>
 								<p className="mt-3 text-sm text-gray-700 underline underline-offset-2 decoration-dotted decoration-0 hover:no-underline hover:text-red-500 transition">
-									<Link href={"mailto:irfannuhaa@gmail.com"}>
+									<Link
+										href={
+											"mailto:irfannuha@protonmail.com"
+										}>
 										Irfan nuha via mail
 									</Link>
 								</p>
