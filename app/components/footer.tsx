@@ -63,7 +63,10 @@ export function Footer() {
 									</Link>
 
 									{/* Icon Email */}
-									<Link href={"mailto:irfannuhaa@gmail.com"}>
+									<Link
+										href={
+											"mailto:irfannuha@protonmail.com"
+										}>
 										<HiOutlineMail className="w-4 h-4 text-gray-400 hover:text-blue-700 transition duration-300" />
 									</Link>
 
