@@ -4,6 +4,14 @@ import Link from "next/link";
 
 const projects = [
 	{
+		title: "Undiscord Team Chat App: Revolutionizing Team Communication (under development)",
+		date: "April, 2024 (under development)",
+		link: "/projects/undiscord",
+		image: "undiscord.jpg",
+		description:
+			"Undiscord Team Chat App is a cutting-edge communication platform designed to enhance collaboration and streamline teamwork, reminiscent of Discord but tailored for professional environments. Built with Next.js, TypeScript, TRPC, and Prisma, and powered by a MySQL database, this application offers a seamless and efficient experience for teams to communicate, share ideas, and coordinate tasks.",
+	},
+	{
 		title: "Bamboo and Rattan Craftsman Company Profile: Showcasing Artistry with Vue.js",
 		date: "October, 2022",
 		link: "/projects",
